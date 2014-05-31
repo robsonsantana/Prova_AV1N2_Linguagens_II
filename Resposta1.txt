@@ -1,0 +1,1 @@
+O Diagrama demonstra como a interface do usuário se comunica em segundo plano com a camada de serviços chamando o metodo findAsync(),em seguida o serviço se comunica com o back-end chamando o metodo findAsync() solicitando assim que os dados do serviço sejam salvos no cache chamando o metodo StoreInCache(),permitindo assim a utilização desses dados offline.
